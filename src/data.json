@@ -1,0 +1,22 @@
+{
+  "python": {
+    "oop": true,
+    "popularity": 9,
+    "extension": "py"
+  },
+  "java": {
+    "oop": true,
+    "popularity": 7,
+    "extension": "java"
+  },
+  "golang": {
+    "oop": false,
+    "popularity": 4,
+    "extension": "go"
+  },
+  "php": {
+    "oop": true,
+    "popularity": 10,
+    "extension": "php"
+  }
+}
