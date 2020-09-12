@@ -1,0 +1,12 @@
+{
+  "name": "modules-task-node",
+  "version": "1.0.0",
+  "description": "In this project, your will be building a tool for extracting data from strings in JSON format. Since huge string processing is expensive, you will be relying on the NPM module parse-json for converting JSON strings into JavaScript objects for you to easily work with the data.",
+  "main": "index.js",
+  "repository": "https://github.com/developerbello/modules-task-node.git",
+  "author": "developerbello <developerbello@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parse-json": "^5.1.0"
+  }
+}

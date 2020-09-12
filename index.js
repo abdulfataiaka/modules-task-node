@@ -21,3 +21,6 @@ console.log(result);
 //+ The result should be a JavaScript object containing details of golang
 result = parser.golang();
 console.log(result);
+
+result = parser.php();
+console.log(result);
